@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello User - 2\Hello User - 2\obj\Debug\Hello User - 2.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello User - 2\Hello User - 2\bin\Debug\Hello User - 2.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello User - 2\Hello User - 2\bin\Debug\Hello User - 2.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello User - 2\Hello User - 2\obj\Debug\Hello User - 2.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello User - 2\Hello User - 2\obj\Debug\Hello User - 2.pdb
